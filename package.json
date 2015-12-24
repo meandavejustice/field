@@ -1,0 +1,22 @@
+{
+  "name": "field",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.2.19",
+    "corsify": "^2.1.0",
+    "http-hash-router": "^1.1.0",
+    "hyperscript": "^1.4.7",
+    "json-globals": "^0.2.1",
+    "s3-upload-stream": "^1.0.7",
+    "send-data": "^8.0.0",
+    "st": "^1.0.0",
+    "xtend": "^4.0.1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "uniqid",
+  "title": "string",
+  "detail_url": "string",
+  "audio_url": "string",
+  "coordinates": {
+    "lat": "string",
+    "lon": "string"
+  },
+  "description": "fdjalf adsjfksalfjsd jdsfljdsafldsa jdsfljsadk fdjalf adsjfksalfjsd jdsfljdsafldsa jdsfljsadk fdjalf adsjfksalfjsd jdsfljdsafldsa jdsfljsadk fdjalf adsjfksalfjsd jdsfljdsafldsa jdsfljsadk ",
+  "author": "",
+  "contact": "admin@example.com",
+  "length": "3.049",
+  "forks": ["id", "id"],
+  "created": "time stamp",
+  "license": "cc",
+  "forked": "false or parent id",
+  "tags": ["tag1", "tag2"],
+  "img_url": "https://sdfkasl",
+  "bpm": "120",
+  "wave_url": "https://sdfkasl",
+  "wave_img": "https://sdfkasl.png",
+}

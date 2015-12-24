@@ -1,0 +1,8 @@
+{
+  "domain": "localhost:8000",
+  "client_id": "1613775952201403",
+  "grant_type": "client_credentials",
+  "client_secret": "MAPBOX_SECRET",
+  "mapbox_access": "MAPBOX_ACCESS",
+  "port": 8000
+}
